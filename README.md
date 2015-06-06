@@ -92,5 +92,5 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ##Donations
 
-Thanks for the support! 
+Thanks for the support!  
 https://flattr.com/profile/fossette
