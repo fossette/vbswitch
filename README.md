@@ -93,4 +93,6 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ##Donations
 
 Thanks for the support!  
-https://flattr.com/profile/fossette
+Bitcoin: **1JbiV7rGE5kRKcecTfPv16SXag65o8aQTe**
+
+# Have Fun!
